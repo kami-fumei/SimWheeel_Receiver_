@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="New_Receiver_Pro.cpp" />
+    <ClCompile Include="core.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Setting.cpp" />
+    <ClCompile Include="utils.cpp" />
+    <ClCompile Include="vjoy_functions.cpp" />
     <ClCompile Include="wifi.cpp" />
   </ItemGroup>
   <ItemGroup>
